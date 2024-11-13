@@ -329,14 +329,14 @@ nav .fa{
     .header-text h1{
         font-size: 30px;
     }
-    nav .fa{
+    nav .fa-solid{
         display: block;
         font-size: 25px;
     }
     nav ul{
         background: #ff004f;
         position: fixed;
-        top: o;
+        top: 0;
         right: -200px;
         width: 200px;
         height: 100vh;
@@ -348,7 +348,7 @@ nav .fa{
         display: block;
         margin: 25px;
     }
-    nav ul .fas{
+    nav ul .fa{
         position: absolute;
         top: 25px;
         left: 25px;
